@@ -1,29 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Simplilearn-Edu 
-MicrosoftLearning
-/
-AZ-103-MicrosoftAzureAdministrator
-Public
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-AZ-103-MicrosoftAzureAdministrator/Allfiles/Labfiles/Module_10/Azure_AD_Identity_Protection/az-101-04b_azuredeploy.json
-
-Your Name Updating Labfiles folder structure
-Latest commit 217aada on Jul 7, 2019
- History
- 1 contributor
-186 lines (186 sloc)  6.65 KB
-   
 {
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
     "contentVersion": "1.0.0.0",
@@ -210,15 +184,3 @@ Latest commit 217aada on Jul 7, 2019
     ],
     "outputs": {}
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
